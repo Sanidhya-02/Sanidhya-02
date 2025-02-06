@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Dev (well Back end mostly), cloud computing and lowkey fw ML sometimes (not a fan tho)
 - 🌱 I’m currently learning VCS and .NET frameworks along with just to keep my Java lover alive, some documentation/lectures on new topics
 - 💞️ I’m looking to collaborate on projects involved in developing and learning new stuff apart 
-- 📫 How to reach me : just drop a mail on sancyadav975@gmail.com
+- 📫 How to reach me : just drop a mail on sanidhya0201@gmail.com
 - ⚡ Fun fact: the egg came 150 million years ago before the f-ing chciken
 
 <!---
