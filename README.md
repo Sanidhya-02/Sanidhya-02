@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning VCS and .NET frameworks along with Java sometimes just to keep my Java lover alive, some documentation/lectures on new topics
 - 💞️ I’m looking to collaborate on projects involved in developing and learning new stuff
 - 📫 How to reach me : just drop a mail on sanidhya0201@gmail.com
-- ⚡ Fun fact: the egg came 150 million years ago before the f-ing chciken
+- ⚡ Fun fact: the egg came 150 million years ago before the f-ing chicken
 
 <!---
 Sanidhya-02/Sanidhya-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
